@@ -9,5 +9,5 @@ published: true
      批评sci这种学术评价方法并不是针对某个或某些人，而是就事论事，希望国内整个科研大环境能够健康起来，sci评价体系真正伤害的是那些学术牛人，因为他们注重论文质量，可能起sci数量要少于那些sci论文机器.
     下面给出一些国内有识之士写的文章链接：
    
-- **<a href="http://blog.sciencenet.cn/blog-788889-747735.html">中国人的智慧真的低到只能用SCI评价论文？</a>*
+- **<a href="http://blog.sciencenet.cn/blog-788889-747735.html">中国人的智慧真的低到只能用SCI评价论文？</a>**
 - <a href="http://blog.sciencenet.cn/blog-1140979-747946.html">SCI=Stupid Chinese Idea吗</a>
