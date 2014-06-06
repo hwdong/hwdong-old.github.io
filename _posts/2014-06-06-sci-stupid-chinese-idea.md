@@ -8,6 +8,6 @@ published: true
 如 Cmu的Cosma Shalizi教授 <a href = "http://vserver1.cscs.lsa.umich.edu/~crshalizi/weblog/864.html">号召抵制Elsevier等以盈利为目的出版商的所有期刊</a>。Sci发明人（某编辑）也指出sci不是用来评价论文的，被用来评价论文也是他所始料不及的。如： <a href = "http://www.editage.cn/insights/%E4%B8%BA%E4%BD%95%E4%B8%8D%E8%AF%A5%E4%BD%BF%E7%94%A8%E6%9C%9F%E5%88%8A%E5%BD%B1%E5%93%8D%E5%9B%A0%E5%AD%90%E8%AF%84%E4%BC%B0%E7%A0%94%E7%A9%B6%E8%B4%A8%E9%87%8F">为何不该使用期刊影响因子评估研究质量</a>.
      批评sci这种学术评价方法并不是针对某个或某些人，而是就事论事，希望国内整个科研大环境能够健康起来，sci评价体系真正伤害的是那些学术牛人，因为他们注重论文质量，可能起sci数量要少于那些sci论文机器.
     下面给出一些国内有识之士写的文章链接：
-    - item
+   
 - **<a href="http://blog.sciencenet.cn/blog-788889-747735.html">中国人的智慧真的低到只能用SCI评价论文？</a>*
 - <a href="http://blog.sciencenet.cn/blog-1140979-747946.html">SCI=Stupid Chinese Idea吗</a>
