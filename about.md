@@ -17,14 +17,16 @@ More information can be available from the following links:
 
 I also established a company focus on research and development on computer graphics and computer vision [Vision3D](http://www.3d.com).. I am looking for students who are interested in working with me in the area of machine learning,computer graphics and computer visiong (procedural modeling, visualization, real-time rendering, remote sensing, image analysis, ...). 
 
-## Setup
+## Links
 
-Some fun facts about the setup of this project include:
+Some useful links include:
 
-* Built for [Jekyll](http://jekyllrb.com)
+* Conferences for computer vision[cvpapers](http://www.cvpapers.com)
+* Conferences for computer graphics[cgpapers](http://kesen.realtimerendering.com/)
 * Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.org), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+* OpenGL Official Site [opengl](http://opengl.org)
+* OpenSSL Official Site[openssl](http://openssl.org)
+* Opencv Official Site [opencv](http://opencv.org)
 
 Have questions or suggestions? Feel free to [contact me](hwdong@gmail.com) .
 
