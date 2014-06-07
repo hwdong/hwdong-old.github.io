@@ -6,7 +6,7 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            
+title:            blog.hwdong.com
 tagline:          'The blog of Hongwei Dong'
 description:      'A reserved <a href="http://hwdong.com" target="_blank">hwdong.com</a> The blog is based on the theme <a href = "http://lanyon.getpoole.com">lanyon </a>.Contacted me by <a href="http://hwdong.com" target="_blank">hwdong.com</a>.'
 url:              http://hwdong.com
