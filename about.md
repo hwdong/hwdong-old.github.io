@@ -15,7 +15,7 @@ More information can be available from the following links:
 * [Homepage](http://hwdong.com)
 * [Lab](http://hwdong.com/cgcv.html)
 
-I also established a company focus on research and development on computer graphics and computer vision [Vision3D](http://www.3d.com).I am looking for students who are interested in working with me in the area of machine learning,computer graphics and computer visiong (procedural modeling, visualization, real-time rendering, remote sensing, image analysis, ...). 
+I also established a company focus on research and development on computer graphics and computer vision [Vision3D](http://www.3d.com).I am looking for students who are interested in working with me in the area of machine learning,computer graphics, computer visiong,high performance computing (3D scanning and mesauremeng, 3D reconstruction and modeling, physics based simulation and animation, 3D facial modeling and animation, HCI, GPGPU(CUDA and OpenCL), vision sensing, image analysis, ...). 
 
 ## Links
 
