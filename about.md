@@ -13,7 +13,7 @@ I am , *Hongwei Dong*, a teacher from a JB University in China. I can be contact
 More information can be available from the following links:
 
 * [Homepage](http://hwdong.com)
-* [Lab](http://hwdong.com/cgcv/html)
+* [Lab](http://hwdong.com/cgcv.html)
 
 I also established a company focus on research and development on computer graphics and computer vision [Vision3D](http://www.3d.com).I am looking for students who are interested in working with me in the area of machine learning,computer graphics and computer visiong (procedural modeling, visualization, real-time rendering, remote sensing, image analysis, ...). 
 
