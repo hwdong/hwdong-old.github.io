@@ -27,6 +27,8 @@ Some useful links include:
 * OpenGL Official Site [opengl](http://opengl.org)
 * OpenSSL Official Site[openssl](http://openssl.org)
 * Opencv Official Site [opencv](http://opencv.org)
+* Python Official Site [python](https://www.python.org/) 
+* Ubuntu  Official Site [ubuntu](http://www.ubuntu.com/)
 
 Have questions or suggestions? Feel free to [contact me](hwdong@gmail.com) .
 
