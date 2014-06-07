@@ -1,20 +1,21 @@
 ---
 layout: page
 title: About
+published: true
 ---
 
 <p class="message">
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I am , *Hongwei Dong*, a teacher from a XX University in China. I can be contacted by [@hwdong](https://hwdong.com).
 
-There are currently two themes built on Poole:
+More information can be available from the following links:
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+* [Homepage](http://hwdong.com)
+* [Lab](http://hwdong.com/cgcv/html)
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+I also established a company focus on research and development on computer graphics and computer vision [Vision3D](http://www.3d.com).. I am looking for students who are interested in working with me in the area of machine learning,computer graphics and computer visiong (procedural modeling, visualization, real-time rendering, remote sensing, image analysis, ...). 
 
 ## Setup
 
