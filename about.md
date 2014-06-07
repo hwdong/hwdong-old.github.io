@@ -21,8 +21,8 @@ I also established a company focus on research and development on computer graph
 
 Some useful links include:
 
-* Conferences for computer vision[cvpapers](http://www.cvpapers.com)
-* Conferences for computer graphics[cgpapers](http://kesen.realtimerendering.com/)
+* Conferences for computer vision [cvpapers](http://www.cvpapers.com)
+* Conferences for computer graphics [cgpapers](http://kesen.realtimerendering.com/)
 * Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
 * OpenGL Official Site [opengl](http://opengl.org)
 * OpenSSL Official Site[openssl](http://openssl.org)
