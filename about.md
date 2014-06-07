@@ -32,6 +32,6 @@ Some useful links include:
 * Qt Official Site [qt](http://qt-project.org/)
 * Google [google.com](http://www.google.com/)
 
-Have questions or suggestions? Feel free to visiy me at my office B215 or lab B512.
+Have questions or suggestions? Feel free to visit me at my office B215 or lab B512.
 
 Thanks for reading!
