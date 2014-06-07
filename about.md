@@ -23,7 +23,7 @@ Some useful links include:
 
 * Conferences for computer vision [cvpapers](http://www.cvpapers.com)
 * Conferences for computer graphics [cgpapers](http://kesen.realtimerendering.com/)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
+* GitHub [GitHub](http://www.github.com)
 * OpenGL Official Site [opengl](http://opengl.org)
 * OpenSSL Official Site[openssl](http://openssl.org)
 * Opencv Official Site [opencv](http://opencv.org)
