@@ -5,7 +5,7 @@ published: true
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Hey there! This page is included as an example. 
 </p>
 
 I am , *Hongwei Dong*, a teacher from a XX University in China. I can be contacted by [@hwdong](https://hwdong.com).
