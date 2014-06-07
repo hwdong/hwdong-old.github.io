@@ -29,6 +29,8 @@ Some useful links include:
 * Opencv Official Site [opencv](http://opencv.org)
 * Python Official Site [python](https://www.python.org/) 
 * Ubuntu  Official Site [ubuntu](http://www.ubuntu.com/)
+* Qt Official Site [qt](http://qt-project.org/)
+* Google [google.com](http://www.google.com/)
 
 Have questions or suggestions? Feel free to [contact me](hwdong@gmail.com) .
 
