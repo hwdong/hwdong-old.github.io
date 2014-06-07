@@ -8,7 +8,7 @@ published: true
   Hey there! This page is included as an example. 
 </p>
 
-I am , *Hongwei Dong*, a teacher from a XX University in China. I can be contacted by [@hwdong](https://hwdong.com).
+I am , *Hongwei Dong*, a teacher from a JB University in China. I can be contacted by [@hwdong](https://hwdong.com).
 
 More information can be available from the following links:
 
