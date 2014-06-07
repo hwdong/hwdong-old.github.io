@@ -8,7 +8,7 @@ published: true
   Hey there! This page is included as an example. 
 </p>
 
-I am , *Hongwei Dong*, a teacher from a JB University in China. I can be contacted by [@hwdong](https://hwdong.com).
+I am , *Hongwei Dong*, a teacher from a JB University in China. 
 
 More information can be available from the following links:
 
@@ -32,6 +32,6 @@ Some useful links include:
 * Qt Official Site [qt](http://qt-project.org/)
 * Google [google.com](http://www.google.com/)
 
-Have questions or suggestions? Feel free to [contact me](hwdong@gmail.com) ,my office is B215 and lab is B512.
+Have questions or suggestions? Feel free to visiy me at my office B215 or lab B512.
 
 Thanks for reading!
