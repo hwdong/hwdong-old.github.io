@@ -2,6 +2,6 @@
 published: false
 ---
 
-## 
+## 喜新厌旧令狐冲式的程序员
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+  只要和算法编程的有趣的新的技术都感兴趣，从网页制作到各种编程工具到机器学习等什么都学，从操作、应用到理论，只要感兴趣的，都想把玩一番，可谓事无巨细、十八般武艺样样都玩。从早期的磁盘加解密、Basci\Fortron语言 ,CAD软件开发到在美资企业开发网络安全隧道VPN，从1994年开始学习Java到1998年学习VC6，从window核心编程到linux下编程，从数控系统开发、CAD算法研究到图形学、计算机视觉、GPU编程，在到现在的机器学习，一直在学习新的有趣的知识。
