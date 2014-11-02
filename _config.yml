@@ -28,5 +28,5 @@ pages_list:
   Archive: '/archive'
   Research: 'research'
   Teaching: 'teaching'
-  Feed: '/atom.xml'
+  Blog: 'http://hwdong.wordpress.com'
   
