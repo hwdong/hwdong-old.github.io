@@ -26,5 +26,7 @@ github:
 pages_list:       
   About: '/about'
   Archive: '/archive'
+  Research: 'research'
+  Teaching: 'teaching'
   Feed: '/atom.xml'
   
