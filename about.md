@@ -3,28 +3,15 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+![](http://40.media.tumblr.com/d4f44a9fcd7c44838fc91862391ea64e/tumblr_nw9m8dStWU1u2qywdo1_1280.jpg)
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+  I'm Hongwei Dong from Jiangnan University，China. I got my bachelor's degree in apply mathematics in 1989 and master's degree in pure mathematics in 1991 from harbin institute of technology,my advisor is Professor Congxin Wu and Ronglu Li. In 2001 I got my doctorate Degree in Aerospace Manufacture and Engineering from Nanjing University of Aeronautics and Astronautics,my advisor is Professor Rurong Zhou. From 2008/9 to 2009/9, I studyed in Texas A&M university under the direction of Professor Jinxiang Chai. I am now an associate professor since May,2005.
 
-There are currently two themes built on Poole:
+  I teach courses such as: Data structure, C++ Programming, Computer Graphics, Computer Network.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+  I am also interested in computer graphics, computer vision and high perfomance computing now.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+  My homepage is : [hwdong.com](http://hwdong.com)
 
-## Setup
+  You could visit me as room 512 or room 215 in the building of IOT.
 
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
