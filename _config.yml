@@ -38,7 +38,8 @@ gems:
 pages_list:       
   About: '/about'
   Archive: '/archive'
-  Feed: '/atom.xml'
+  tumblr: 'http://hongweidong.tumblr.com'  
+  #Feed: '/atom.xml'
 
   # Duoshuo settings
 duoshuo_username: hwd
