@@ -3,7 +3,6 @@ layout: page
 title: About
 ---
 
- ## About me
 
  ![](http://40.media.tumblr.com/d4f44a9fcd7c44838fc91862391ea64e/tumblr_nw9m8dStWU1u2qywdo1_1280.jpg)
 
