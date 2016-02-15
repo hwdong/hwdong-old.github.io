@@ -1,9 +1,11 @@
 # Permalinks
 permalink:           pretty
 
+pygments:         true
+
 # Setup
 title:               Blog.hwdong.com
-tagline:             The Jekyll Butler
+tagline:             'Data Science, Apache Pig, Hadoop, Blogging, Tweets, Astrophysics'
 url:                 http://blog.hwdong.com
 paginate:            4
 baseurl:             ""
