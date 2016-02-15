@@ -1,5 +1,7 @@
 ---
-published: true
+layout: post
+title: "What is Machine Learning?"
+comments: true
 ---
 
 ## 什么是机器学习？
