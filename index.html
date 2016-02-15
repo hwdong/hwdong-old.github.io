@@ -5,19 +5,14 @@ title: Home
 
 <div class="posts">
   {% for post in paginator.posts %}
-  <article class="post">
-    <h1 class="post-title">
-      <a href="{{ site.baseurl }}{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
+      <div class="post py3">
+          <p class="post-meta">{{ post.date | date: site.date_format }}</p>
+          <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"><h3 class="h1 post-title">{{ post.title | capitalize }}</h3></a>
+          <p class="post-summary">
+            {{ post.excerpt | strip_html }} 
+          </p>
+      </div>
 
-    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
-
-    <!-- {{ post.content }} -->
-    {{ post.excerpt | strip_html }} 
-         
-  </article>
   {% endfor %}
 </div>
 
