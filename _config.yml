@@ -5,7 +5,7 @@ pygments:         true
 
 # Setup
 title:               Blog.hwdong.com
-tagline:             'Data Science, Apache Pig, Hadoop, Blogging, Tweets, Astrophysics'
+tagline:             'Research, Teaching, Blogging'
 url:                 http://blog.hwdong.com
 paginate:            4
 baseurl:             ""
