@@ -13,5 +13,7 @@ I am also interested in computer graphics, computer vision and high perfomance c
 
 My homepage is : [hwdong.com](http://hwdong.com)
 
+My tumblr Nlog is : [hongweidong.tumblr.com](http://hongweidong.tumblr.com)
+
 You could visit me as room 512 or room 215 in the building of IOT.
 
