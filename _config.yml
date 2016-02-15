@@ -10,7 +10,7 @@ tagline:             'Research, Teaching, Blogging'
 url:                 http://blog.hwdong.com
 paginate:            4
 baseurl:             ""
-excerpt_separator: "<!-- more -->"
+excerpt_separator: <!--more-->
 
 # Assets
 #
