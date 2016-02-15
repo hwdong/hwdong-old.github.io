@@ -1,10 +1,12 @@
 ---
-published: true
+layout: post
+title: "SCI - stupid chinese idea"
+comments: true
 ---
 
 ## 何日才能废除sci评价体系?
 
-对于只有中国人使用的中国人发明的sci评价方法，一直感到如鲠在喉，不吐不快。有良心的科学家如中科院李国杰院士等早在2006年就指出这个[stupid chinese idea](http://www.cast.org.cn/n35081/n35548/n38680/10080359.htmll)对科研的严重危害性，但sci腐败之风越演越烈，如雾霭越发严重！
+对于只有中国人使用的中国人发明的sci评价方法，一直感到如鲠在喉，不吐不快。有良心的科学家如中科院李国杰院士等早在2006年就指出这个 [stupid chinese idea](http://www.cast.org.cn/n35081/n35548/n38680/10080359.htmll) 对科研的严重危害性，但sci腐败之风越演越烈，如雾霭越发严重！
 
 <!--more-->
 
