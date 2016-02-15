@@ -1,37 +1,30 @@
 ---
 layout: page
 title: About
-published: true
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. 
+  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p>
 
-I am , *Hongwei Dong*, a teacher from a JB University in China. 
+In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
 
-More information can be available from the following links:
+There are currently two themes built on Poole:
 
-* [Homepage](http://hwdong.com)
-* [Lab](http://hwdong.com/cgcv.html)
+* [Hyde](http://hyde.getpoole.com)
+* [Lanyon](http://lanyon.getpoole.com)
 
-I also established a company focus on research and development on computer graphics and computer vision [Vision3D](http://www.3d.com). I am looking for students who are interested in working with me in the area of machine learning,computer graphics, computer visiong,high performance computing (3D scanning and mesauremeng, 3D reconstruction and modeling, physics based simulation and animation, 3D facial modeling and animation, machine learning and AI, HCI, GPGPU(CUDA and OpenCL), vision sensing, image analysis, ...). 
+Learn more and contribute on [GitHub](https://github.com/poole).
 
-## Links
+## Setup
 
-Some useful links include:
+Some fun facts about the setup of this project include:
 
-* Conferences for computer vision [cvpapers](http://www.cvpapers.com)
-* Conferences for computer graphics [cgpapers](http://kesen.realtimerendering.com/)
-* GitHub [GitHub](http://www.github.com)
-* OpenGL Official Site [opengl](http://opengl.org)
-* OpenSSL Official Site[openssl](http://openssl.org)
-* Opencv Official Site [opencv](http://opencv.org)
-* Python Official Site [python](https://www.python.org/) 
-* Ubuntu  Official Site [ubuntu](http://www.ubuntu.com/)
-* Qt Official Site [qt](http://qt-project.org/)
-* Google [google.com](http://www.google.com/)
+* Built for [Jekyll](http://jekyllrb.com)
+* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
+* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
+* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
 
-Have questions or suggestions? Feel free to visit me at my office B215 or lab B512.
+Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
 
 Thanks for reading!

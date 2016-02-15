@@ -1,32 +1,32 @@
-# Dependencies
-markdown:         redcarpet
-pygments:         true
-
 # Permalinks
-permalink:        pretty
+permalink:           pretty
 
 # Setup
-title:            blog.hwdong.com
-tagline:          'The blog of Hongwei Dong'
-description:      'A reserved <a href="http://hwdong.com" target="_blank">hwdong.com</a> The blog is based on the theme <a href = "http://lanyon.getpoole.com">lanyon </a>.Contacted me by <a href="http://hwdong.com" target="_blank">hwdong.com</a>.'
-url:              http://hwdong.com
+title:               Poole
+tagline:             The Jekyll Butler
+url:                 http://getpoole.com
+paginate:            1
+baseurl:             ""
 
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
 author:
-  name:           'Hongwei Dong'
-  url:            http://hwdong.com
-
-paginate:         5
+  name:              Mark Otto
+  url:               https://twitter.com/mdo
+  email:             markdotto@gmail.com
 
 # Custom vars
-version:          2.0.0
-
+version:             2.0.0
 github:
-  repo:           https://github.com/hwdong
-    
-pages_list:       
-  About: '/about'
-  Archive: '/archive'
-  Research: 'research'
-  Teaching: 'teaching'
-  Blog: 'http://hwdong.wordpress.com'
-  
+  repo:              https://github.com/poole/poole
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
