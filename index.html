@@ -15,6 +15,11 @@ title: Home
     <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
 
    <!-- {{ post.content }}  -->
+   <p class="metadata">
+    {{ post.date | date_to_long_string }}
+    &bull; 
+    &bull; <a href="{% unless page.url == post.url %}{{ post.url }}/{% endunless %}#disqus_thread">Comments</a>
+   </p>
    <article>
     <p>
       {{ post.excerpt | strip_html }} <a href="{{ site.baseurl }}{{ post.url }}">Read more</a>
