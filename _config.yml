@@ -1,6 +1,7 @@
 # Permalinks
 permalink:           pretty
 pygments:         true
+markdown: redcarpet
 
 # Setup
 title:               Blog.hwdong.com
@@ -8,7 +9,7 @@ tagline:             'Research, Teaching, Blogging'
 url:                 http://blog.hwdong.com
 paginate:            4
 baseurl:             ""
-excerpt_separator: <!--more-->
+excerpt_separator: <!--more-->  #global excerpt separator for the blog posts
 
 # Assets
 #
