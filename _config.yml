@@ -1,6 +1,8 @@
 # Permalinks
 permalink:           pretty
 
+markdown:      maruku
+
 # Setup
 title:               blog.hwdong.com
 tagline:             
