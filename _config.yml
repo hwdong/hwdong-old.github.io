@@ -7,6 +7,7 @@ markdown:      maruku
 title:               blog.hwdong.com
 tagline:             
 url:                 http://blog.hwdong.com
+shorturl:            blog.hwdong.com
 paginate:            5
 baseurl:             ""
 excerpt_separator: <!--more-->  #global excerpt separator for the blog posts
@@ -27,7 +28,7 @@ author:
 # Custom vars
 #version:             2.0.0
 github:
-  repo:              https://hwdong.github.io
+  repo:              github.com/hwdong/hwdong.github.io
 
 # Gems
 gems:
