@@ -5,9 +5,12 @@ comments: true
 ---
 
 I implemented three 3d non-rigid registration algorithms besed on different deformation techniques.
-It seemd the older DT algorithm is better two newer algorithms (ASAP and ED). In the figure 2, algorithm1,algorithm2,algorithm3 are ASAP, ED and DT respectively. 
 
 <!--more-->
+
+It seemd the older DT algorithm is better two newer algorithms (ASAP and ED). In the figure 2, algorithm1,algorithm2,algorithm3 are ASAP, ED and DT respectively. 
+
+
 
 My 3d registration program can be downloaded [here](http://hwdong.com/3dRegister.zip).
 
