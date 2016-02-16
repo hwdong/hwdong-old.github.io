@@ -7,9 +7,9 @@ title: Home
   {% for post in paginator.posts %}
       <div class="post py3">   
         <p>    
-          {{ post.date | date:"%Y-%m-%d"}}                
+          <small>{{ post.date | date:"%Y-%m-%d"}} <small>   &nbsp;&nbsp;        
           <a href="{{ post.url | prepend: site.baseurl }}" class="post-link">
-            <h4 class="h1 post-title">{{ post.title | capitalize }} </h4></a>            
+            <strong class="h1 post-title">{{ post.title | capitalize }} </strong></a>            
             <!--   <h3 class="h1 post-title" >{{ post.title | capitalize }} </h3></a>   --> 
         
             {{ post.excerpt | strip_html }} 
