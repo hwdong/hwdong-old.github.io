@@ -8,7 +8,7 @@ I implemented three 3d non-rigid registration algorithms besed on different defo
 
 <!--more-->
 
-It seemd the older DT algorithm is better two newer algorithms (ASAP and ED). In the figure 2, algorithm1,algorithm2,algorithm3 are ASAP, ED and DT respectively. 
+It seemd the older DT algorithm is better than two other newer algorithms (ASAP and ED). In the figure 2, algorithm1(ASAP), algorithm2(ED), algorithm3(DT) are compaired. 
 
 
 
