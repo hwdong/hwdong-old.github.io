@@ -6,8 +6,7 @@ title: Home
 <div class="posts">
   {% for post in paginator.posts %}
       <div class="post py3">   
-          <p class="post-meta">{{ post.date | date_to_string }}  
-          <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>  
+          <p class="post-meta">{{ post.date | date:"%Y-%m-%d"  }}            
           <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"><h3 class="h1 post-title">{{ post.title | capitalize }} </h3></a>   </p>      
           <p class="post-summary">
             {{ post.excerpt | strip_html }} 
