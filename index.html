@@ -9,7 +9,7 @@ title: Home
         <p>    
           <small>{{ post.date | date:"%Y-%m-%d"}} </small>   &nbsp;&nbsp;        
           <a href="{{ post.url | prepend: site.baseurl }}" class="post-link">
-            <strong class="h1 post-title">{{ post.title | capitalize }} </strong></a> <br/>           
+            <strong style="font-size:6">{{ post.title | capitalize }} </strong></a> <br/>           
             <!--   <h3 class="h1 post-title" >{{ post.title | capitalize }} </h3></a>   --> 
         
             {{ post.excerpt | strip_html }} 
