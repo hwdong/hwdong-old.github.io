@@ -1,5 +1,7 @@
 ---
-published: false
+layout: post
+title: "I am a Programmer"
+comments: true
 ---
 
 ## 喜新厌旧令狐冲式的程序员
