@@ -10,11 +10,10 @@
   margin-right: auto;
 }
 
-h1{
-    display: inline;
-}
-h3{
-    display: inline;
+h1,h2,h3{
+    display: inline-block;
+    margin-top: -1.91em;
+    margin-bottom: -1.91em;
 }
 
 footer {
