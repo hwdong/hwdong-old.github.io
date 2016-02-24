@@ -6,7 +6,7 @@ comments: true
 
 ## I like programming
 
-My main programming language is C/C++. I also used Java or SAP.NEt to write some database programming like information systems. I also know other programing languages such as Python, Matlab, Web Languages(Javascript, HTNL, CSS), etc. <!--more-->
+My main programming language is C/C++. I also used Java or ASP.NEt to write some database programming like information systems. I also know other programing languages such as Python, Matlab, Web Languages(Javascript, HTNL, CSS), etc. <!--more-->
 
 I did Programming using Geometry Modeling Tool ACIS to develop a feature identifier based 3d Modeling system for my Phd Degree. During my Phd study, I also researched  and implemnted some key algorithms for NURBS surface modeling system which is the best surface modeling system in 1997,China.
 
