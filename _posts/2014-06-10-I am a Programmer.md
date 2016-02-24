@@ -4,6 +4,12 @@ title: "I am a Programmer"
 comments: true
 ---
 
-## 喜新厌旧令狐冲式的程序员
+## I like programming
 
-只要和算法编程的有趣的新的技术都感兴趣，从网页制作到各种编程工具到机器学习等什么都学，从操作、应用到理论，只要感兴趣的，都想把玩一番，可谓事无巨细、十八般武艺样样都玩。<!--more-->从早期的磁盘加解密、Basci\Fortron语言 ,CAD软件开发到在美资企业开发网络安全隧道VPN，从1994年开始学习Java到1998年学习VC6，从window核心编程到linux下编程，从数控系统开发、CAD算法研究到图形学、计算机视觉、GPU编程，在到现在的机器学习，一直在学习新的有趣的知识。
+My main programming language is C/C++. I also used Java or SAP.NEt to write some database programming like information systems. I also know other programing languages such as Python, Matlab, Web Languages(Javascript, HTNL, CSS), etc. I did Programming using Geometry Modeling Tool ACIS to develop a feature identifier based 3d Modeling system for my Phd Degree. During my Phd study, I also researched  and implemnted some key algorithms for NURBS surface modeling system which is the best surface modeling system in 1997,China.
+
+I develped a Glass cutting system from 2002 to 2004 with a graduate student Zhiguo, Chen as a helper. I did research in Computer Graphics and implemented different algorithms in C++ such as surface reconstruction, surface segmentation,3d facial modeling, 3d non rigid registration, etc.
+
+I also try other programming languages such as python, Matlab,etc. For example, I wrote some 2d games in Java in a week during the summer, 2014.  
+
+I think programming is simple and interesting.
