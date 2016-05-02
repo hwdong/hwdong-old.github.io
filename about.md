@@ -9,7 +9,7 @@ I'm Hongwei Dong from Jiangnan University，China. I got my bachelor's degree in
 
 I teach courses such as: [Data structure](http://hwdong.com/ds/), [C++ Programming](http://hwdong.com/c++/), [Computer Graphics](http://hwdong.com/cg/), Computer Network.
 
-I am also interested in computer graphics, computer vision and high perfomance computing now.
+I am also interested in maching learning, computer graphics, computer vision, game programming and high perfomance computing now.
 
 My homepage is : [hwdong.com](http://hwdong.com)
 
