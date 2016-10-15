@@ -28,7 +28,7 @@ float ff = af-bf;
 
 Both f and ff are now correct. When we use VS201x such as VS2015, we sometimes encounter these similar bugs from their products.  
 
-A  result of the program is tested using the images from internet.
+The program is tested using the images from internet.
 
 The simple program can be downloaded [here](http://hwdong.com/prog_images/DPIE.zip) (waring : the size of a image should be power of 2. 
 My machine onlye support OpenGL 1 so I didn't use OpenGL 2 to show images of any size ). 
