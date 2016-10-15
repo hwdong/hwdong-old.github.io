@@ -1,6 +1,7 @@
 ![1](http://hwdong.com/prog_images/1.jpg)  ![2](http://hwdong.com/prog_images/2.jpg)
 
 I know this algorithms in 2008 which is very simple to implement but I didn't try it. The day before yesterday I implemented it using OpenCV and SOIL image library.
+<!--more--> 
 For this simply program ,I don't want to use the OpenCV. However a bug wasted me a whole day to find the problem.
 
 Suppose we have two variables to sub:
