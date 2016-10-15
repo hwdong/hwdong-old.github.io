@@ -5,15 +5,18 @@ I knew this algorithms in 2008 which is very simple to implement but I didn't tr
 For this simply program ,I don't want to use the OpenCV. However a bug wasted me a whole day to find the problem.
 
 Suppose we have two variables to sub:
+
 ```
 unsigned char a=150,b=151;
 float f = (float)a-(float)b; 
 ```
 The result is about hundreds,it is very strange.
 Finally I added these code liens:
-```float af= (float)a; float bf = (float)b; 
+```
+float af= (float)a; float bf = (float)b; 
 float ff = af-bf;
 ```
+
 Both f and ff are now correct. When we use Vs201x, we sometimes encounter these similar bugs from their products.  
 
 A  result of the program is tested using the images from internet.
