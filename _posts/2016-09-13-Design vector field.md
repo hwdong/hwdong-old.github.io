@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Design vector field"
+comments: true
+---
 
 I wrote simple code for designing vector field and the resulted vector field from three design elements is :
 
