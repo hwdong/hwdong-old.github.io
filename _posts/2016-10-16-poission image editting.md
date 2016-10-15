@@ -18,7 +18,7 @@ float f = (float)a-(float)b;
 ```
 
 The result is about hundreds,it is very strange.
-Finally I added these code liens:
+Finally I added these code liens between the above two lines:
 
 ```
 float af= (float)a; 
