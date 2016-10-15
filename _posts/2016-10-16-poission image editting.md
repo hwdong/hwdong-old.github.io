@@ -20,7 +20,7 @@ float bf = (float)b;
 float ff = af-bf;
 ```
 
-Both f and ff are now correct. When we use Vs201x, we sometimes encounter these similar bugs from their products.  
+Both f and ff are now correct. When we use VS201x such as VS2015, we sometimes encounter these similar bugs from their products.  
 
 A  result of the program is tested using the images from internet.
 
