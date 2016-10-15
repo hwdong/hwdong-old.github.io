@@ -15,7 +15,8 @@ The result is about hundreds,it is very strange.
 Finally I added these code liens:
 
 ```
-float af= (float)a; float bf = (float)b; 
+float af= (float)a; 
+float bf = (float)b; 
 float ff = af-bf;
 ```
 
