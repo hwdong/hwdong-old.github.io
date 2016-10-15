@@ -18,7 +18,7 @@ float f = (float)a-(float)b;
 ```
 
 The result is about hundreds,it is very strange.
-Finally I added these code liens between the above two lines:
+Finally I added these code lines between the above two lines:
 
 ```
 float af= (float)a; 
@@ -30,5 +30,5 @@ Both f and ff are now correct. When we use VS201x such as VS2015, we sometimes e
 
 The program is tested using the images from internet.
 
-The simple program can be downloaded [here](http://hwdong.com/prog_images/DPIE.zip) (waring : the size of a image should be power of 2. 
+The simple program can be downloaded [here](http://hwdong.com/prog_images/DPIE.zip) (warning : the size of a image should be power of 2. 
 My machine onlye support OpenGL 1 so I didn't use OpenGL 2 to show images of any size ). 
