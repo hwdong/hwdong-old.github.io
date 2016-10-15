@@ -1,3 +1,9 @@
+---
+layout: post
+title: "poisson image editting"
+comments: true
+---
+
 ![1](http://hwdong.com/prog_images/1.jpg)  ![2](http://hwdong.com/prog_images/2.jpg)
 
 I knew this algorithms in 2008 which is very simple to implement but I didn't try it. The day before yesterday I implemented it using OpenGL and SOIL image library.
