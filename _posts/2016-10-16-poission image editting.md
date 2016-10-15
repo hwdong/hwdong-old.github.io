@@ -8,7 +8,7 @@ comments: true
 
 I knew this algorithms in 2008 which is very simple to implement but I didn't try it. The day before yesterday I implemented it using OpenGL and SOIL image library.
 <!--more--> 
-For this simply program ,I don't want to use the OpenCV. However a bug wasted me a whole day to find the problem.
+For this simple program ,I don't want to use the OpenCV. However a bug wasted me a whole day to find the problem.
 
 Suppose we have two variables to sub:
 
