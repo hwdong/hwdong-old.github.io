@@ -15,5 +15,7 @@ Here is my [simple tool](http://hwdong.com/VF/VFtool.7z) to design vector field.
 
 Before run the program VFdesign.exe,you should first modify the filename "VFdesign.exe=postfix" to "VFdesign.exe".
 
+I have updated a new program [VFDA.zip](http://hwdong.com/VF/VFDA.zip)
+
 Refer to :
        [Vector Field Design on Surfaces](http://web.engr.oregonstate.edu/~zhange/images/vecflddesn.pdf)
