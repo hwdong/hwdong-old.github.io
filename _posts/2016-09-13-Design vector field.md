@@ -17,5 +17,6 @@ Before run the program VFdesign.exe,you should first modify the filename "VFdesi
 
 I have updated a new program [VFDA.zip](http://hwdong.com/VF/VFDA.zip)
 
+A video of my "Design of 2D Time-Varying Vector Fields" is posted in youtube ![](https://www.youtube.com/watch?v=SPrL7mk_FRA)
 Refer to :
        [Vector Field Design on Surfaces](http://web.engr.oregonstate.edu/~zhange/images/vecflddesn.pdf)
