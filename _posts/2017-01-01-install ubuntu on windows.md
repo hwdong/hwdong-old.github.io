@@ -84,7 +84,7 @@ d） 200M             logical ( 即逻辑分分区)            ext4             
     方法一：
 
       ALT+ALt+F1 进入terminal;
-```
+```python
       sudo  /etc/init.d/lightdm stop 或者sudo  /etc/init.d/gdm stop ; 
 
       sudo chmod +x cuda*.run;
@@ -94,7 +94,7 @@ d） 200M             logical ( 即逻辑分分区)            ext4             
       sudo  /etc/init.d/lightdm  restart  
 ```
      输入$ sudo gedit /etc/profile，打开 gedit ，最后两行输入
-```
+```python
 export PATH=/usr/local/cuda-8.0/bin:$PATH
 export LD_LIBRARY_PATH=/usr/local/cuda-8.0/lib64:$LD_LIBRARY_PATH
 
