@@ -79,6 +79,30 @@ d） 200M             logical ( 即逻辑分分区)            ext4             
 
  1) ubuntu16以下版本如果要用g++4.9，则可以安装（install） g++4.9 : http://askubuntu.com/questions/428198/getting-installing-gcc-g-4-9-on-ubuntu
 
+ 2)  CUDA8 安装：
+    不要安装driver，只要[下载](https://developer.nvidia.com/cuda-downloads)一个CUDA8就可以了
+    方法一：
+
+      ALT+ALt+F1 进入terminal;
+
+      sudo  /etc/init.d/lightdm stop 或者sudo  /etc/init.d/gdm stop ; 
+
+      sudo chmod +x cuda*.run;
+
+      sudo ./cuda*.run; 
+
+      sudo  /etc/init.d/lightdm  restart  
+
+     输入$ sudo gedit /etc/profile，打开 gedit ，最后两行输入
+     '''
+     export PATH=/usr/local/cuda-8.0/bin:$PATH
+     export LD_LIBRARY_PATH=/usr/local/cuda-8.0/lib64:$LD_LIBRARY_PATH
+     '''
+
+     方法二：
+ 参考：[http://www.th7.cn/system/lin/201607/173609.shtml](http://www.th7.cn/system/lin/201607/173609.shtml)
+
+
 **5. 其他**
 
 挂载u盘，往u盘上拷贝数据： mount -o remount,rw /*** U盘的挂载点
