@@ -110,7 +110,7 @@ export LD_LIBRARY_PATH=/usr/local/cuda-8.0/lib64:$LD_LIBRARY_PATH
 
 **5. 其他**
 
-挂载u盘，往u盘上拷贝数据： mount -o remount,rw /*** U盘的挂载点
+[挂载u盘](http://jingyan.baidu.com/article/f0062228dc2aa6fbd3f0c8ec.html)，往u盘上拷贝数据： mount -o remount,rw /*** U盘的挂载点
 
 开机启动某应用程序：点击Windows按键，输入Startup，可打开启动应用程序，在其中可以添加开机启动项。
 
