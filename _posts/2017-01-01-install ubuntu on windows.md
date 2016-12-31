@@ -49,8 +49,40 @@ c)  2048M           logical ( 即逻辑分分区)            swap分区
          
 d） 200M             logical ( 即逻辑分分区)            ext4                  boot                    Mounting Point: / boot             这一步不需要！
 
-**3. 系统环境** 
+**3. 系统配置** 
+
+ 1).网络的配置，网上转载的基于命令行的网络配置程序的文章既复杂又过时了，其实只要通过GUI界面很容易配置。注意使用ifconfig查看网卡驱动是否正确安装了！
+
+ 网速慢： 网上东抄西抄的文章都是胡说，因为ubuntu已经自带了dnsmasq，我都试验过，没效果的！ 最简单的方法是在网络设置里设置一下OpenDNS域名服务器就行了！另外，浏览器需要安装好flash player插件，一旦安装好该插件后，你会发现网速马上变快了，浏览网页比Windows7 环境下要快！
+
+ 2) 汉字输入:参考[](http://blog.csdn.net/up_seeker/article/details/40859777)
+
+ google输入法:
+
+    a)CTRL+ALT+T“组合键打开terminal窗口，输入下面的命令：
+
+      sudo apt-get install ibus-googlepinyin
+
+    b)系统设置(system setting) -> Personal->Text Entry里添加刚才的google 输入法就可以。
+
+    c)重启系统。就可以用super+space键进行中英文切换了！
  
-**4. 其他**
+ 3. 软件包的安装与管理：（http://zhouliang.pro/2011/10/23/ubuntu-apt-aptitude-dpkg/ ），如 
+
+  dpkg -l |grep forefox 
+
+  查看firefox程序的安装信息，
+
+ rpm包在ubuntu下部支持，需要转换成debian: http://superuser.com/questions/607493/rpm-should-not-be-used-directly-install-rpm-packages。
+
+**编程环境**
+
+ 1) ubuntu16以下版本如果要用g++4.9，则可以安装（install） g++4.9 : http://askubuntu.com/questions/428198/getting-installing-gcc-g-4-9-on-ubuntu
+
+**5. 其他**
 
 挂载u盘，往u盘上拷贝数据： mount -o remount,rw /*** U盘的挂载点
+
+开机启动某应用程序：点击Windows按键，输入Startup，可打开启动应用程序，在其中可以添加开机启动项。
+
+Chrome里打开下载续传功能：chrome://flags
