@@ -23,15 +23,20 @@ tags:
 **2. 在已有windwos系统上安装ubuntu**
  
 
-  1). 下载ubuntu 并制作USB或DVD安装盘：
-       http://howtoubuntu.org/how-to-install-ubuntu-14-04-trusty-tahr
+  1). [下载ubuntu 并制作USB或DVD安装盘](http://howtoubuntu.org/how-to-install-ubuntu-14-04-trusty-tahr);
 
-      usb制作工具制作usb安装盘   
+      [usb制作工具制作usb安装盘](https://help.ubuntu.com/community/Installation/FromUSBStickQuick)  
+
+      ![](http://s5.51cto.com/wyfs02/M00/27/6B/wKioL1Ny1O2gFAIHAACh9GlDXUo023.jpg) 
     
   2). window系统上留出一块多余空间如50G （具体过程：桌面上选中计算机 -> 右键菜单选择管理 -> 选择磁盘管理，右键菜单选择压缩卷. 压缩卷的功能是将分区中的部分空间去除,成为空闲的空间） 
    
   3)  windows系统启动时，按del键盘进入BIOS，选择首选启动项为 U盘而不是硬盘。  
    注意:  安装画面选择安装模式时要选 "其他(other)", 防止覆盖windows系统
+
+**注意：**选择最下面的那个’Something else’ 选项
+
+ ！[](https://assets.ubuntu.com/v1/b42312cd-download-desktop-install-ubuntu-desktop_4.jpg)
   
   4） usb启动后进入ubuntu安装过程，此时需要进行4个分区(网上教程有误，需要都作为 逻辑分区),即按照下面的a),b),c)进行分区,即主要哈ufenweisange分区： / 、/home 、swap 。
       
