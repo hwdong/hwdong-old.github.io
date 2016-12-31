@@ -77,7 +77,8 @@ d） 200M             logical ( 即逻辑分分区)            ext4             
 
 **编程环境**
 
-1) ubuntu16以下版本如果要用g++4.9，则可以安装（install） g++4.9 : http://askubuntu.com/questions/428198/getting-installing-gcc-g-4-9-on-ubuntu
+1) ubuntu16以下版本如果要用g++4.9，则可以安装（install） g++4.9 : 
+[getting-installing-gcc-g-4-9-on-ubuntu](http://askubuntu.com/questions/428198/getting-installing-gcc-g-4-9-on-ubuntu)
 
 2)  CUDA8 安装：
     不要安装driver，只要[下载](https://developer.nvidia.com/cuda-downloads)一个CUDA8就可以了
