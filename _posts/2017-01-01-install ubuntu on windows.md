@@ -15,8 +15,6 @@ tags:
 
 <!--more-->
 
-(在一台windows机器上)用 [windows 7 dvd usb tool](Windows USB/DVD Download Tool)制作安装windows7或windows10的安装启动u盘，在启动电脑时一直按"Del"键选择U盘启动,然后按照指令安装windows。
- 如果要在windows上安装linux（如ubuntu）双系统，则在安装过程分区时，流出足够剩余(free)空间给linux系统。
 
 **2. 在已有windwos系统上安装ubuntu** 
 
@@ -49,13 +47,15 @@ c)  2048M           logical ( 即逻辑分分区)            swap分区
          
 d） 200M             logical ( 即逻辑分分区)            ext4                  boot                    Mounting Point: / boot             这一步不需要！
 
+ 我的电脑安装了windows10和ubuntu14.04,ubuntu16.04这3个系统。
+
 **3. 系统配置** 
 
  1).网络的配置，网上转载的基于命令行的网络配置程序的文章既复杂又过时了，其实只要通过GUI界面很容易配置。注意使用ifconfig查看网卡驱动是否正确安装了！
 
  网速慢： 网上东抄西抄的文章都是胡说，因为ubuntu已经自带了dnsmasq，我都试验过，没效果的！ 最简单的方法是在网络设置里设置一下OpenDNS域名服务器就行了！另外，浏览器需要安装好flash player插件，一旦安装好该插件后，你会发现网速马上变快了，浏览网页比Windows7 环境下要快！
 
- 2) 汉字输入:参考[](http://blog.csdn.net/up_seeker/article/details/40859777)
+ 2) 汉字输入:参考[http://blog.csdn.net/up_seeker/article/details/40859777](http://blog.csdn.net/up_seeker/article/details/40859777)
 
  google输入法:
 
@@ -63,9 +63,12 @@ d） 200M             logical ( 即逻辑分分区)            ext4             
 
       sudo apt-get install ibus-googlepinyin
 
-    b)系统设置(system setting) -> Personal->Text Entry里添加刚才的google 输入法就可以。
+    b)重启或注销     
 
-    c)重启系统。就可以用super+space键进行中英文切换了！
+    c)运行 sudo ibus-setup , 在custom input method中添加(add)google输入法。
+
+    d)系统设置(system setting) -> Personal->Text Entry里添加刚才的google输入法和English(US) 这2个输入法。
+    重启系统。就可以用super+space键进行中英文切换了！
  
  3. 软件包的安装与管理：（http://zhouliang.pro/2011/10/23/ubuntu-apt-aptitude-dpkg/ ），如 
 
@@ -80,7 +83,7 @@ d） 200M             logical ( 即逻辑分分区)            ext4             
 1) ubuntu16以下版本如果要用g++4.9，则可以安装（install） g++4.9 : 
 [getting-installing-gcc-g-4-9-on-ubuntu](http://askubuntu.com/questions/428198/getting-installing-gcc-g-4-9-on-ubuntu)
 
-2)  CUDA8 安装：
+2) install(安装)  CUDA8 ：
     不要安装driver，只要[下载](https://developer.nvidia.com/cuda-downloads)一个CUDA8就可以了
     方法一：
 
@@ -104,7 +107,7 @@ export LD_LIBRARY_PATH=/usr/local/cuda-8.0/lib64:$LD_LIBRARY_PATH
 
 ```
 
-方法二：
+方法二(似乎不行)：
 参考：[http://www.th7.cn/system/lin/201607/173609.shtml](http://www.th7.cn/system/lin/201607/173609.shtml)
 
 
