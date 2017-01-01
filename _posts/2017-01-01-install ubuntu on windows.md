@@ -71,15 +71,8 @@ d） 200M             logical ( 即逻辑分分区)            ext4             
     d)系统设置(system setting) -> Personal->Text Entry里添加刚才的google输入法和English(US) 这2个输入法。
     重启系统。就可以用super+space键进行中英文切换了！
  
- 3. 软件包的安装与管理：（http://zhouliang.pro/2011/10/23/ubuntu-apt-aptitude-dpkg/ ），如 
-
-  dpkg -l |grep forefox 
-
-  查看firefox程序的安装信息，
-
- rpm包在ubuntu下不支持，需要转换成debian,参考[该文章](http://superuser.com/questions/607493/rpm-should-not-be-used-directly-install-rpm-packages).
-
-**编程环境**
+  
+**4. 编程环境**
 
 1)  安装基本编程工具
 
@@ -106,9 +99,10 @@ d） 200M             logical ( 即逻辑分分区)            ext4             
 ubuntu16以下版本如果要用g++4.9，则可以安装（install） g++4.9 : 
 [getting-installing-gcc-g-4-9-on-ubuntu](http://askubuntu.com/questions/428198/getting-installing-gcc-g-4-9-on-ubuntu)
 
-2) install(安装)  CUDA8 ：
-    不要安装driver，只要[下载](https://developer.nvidia.com/cuda-downloads)一个CUDA8就可以了
-    方法一：
+) install(安装)  CUDA8 ：
+不要安装driver，只要[下载](https://developer.nvidia.com/cuda-downloads)一个CUDA8就可以了
+    
+方法一：
 
 ALT+ALt+F1 进入terminal;
 
@@ -138,6 +132,14 @@ export LD_LIBRARY_PATH=/usr/local/cuda-8.0/lib64:$LD_LIBRARY_PATH
 ```  
   sudo apt-get install eclipse eclipse-cdt g++
 ```  
+
+4). 软件包的安装与管理：（http://zhouliang.pro/2011/10/23/ubuntu-apt-aptitude-dpkg/ ），如 
+
+  dpkg -l |grep forefox 
+
+  查看firefox程序的安装信息，
+
+ rpm包在ubuntu下不支持，需要转换成debian,参考[该文章](http://superuser.com/questions/607493/rpm-should-not-be-used-directly-install-rpm-packages).
 
 **5. 其他**
 
