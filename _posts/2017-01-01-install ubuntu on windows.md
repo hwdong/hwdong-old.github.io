@@ -126,6 +126,9 @@ export LD_LIBRARY_PATH=/usr/local/cuda-8.0/lib64:$LD_LIBRARY_PATH
 
 ```
 
+方法二(似乎不行)：
+参考：[http://www.th7.cn/system/lin/201607/173609.shtml](http://www.th7.cn/system/lin/201607/173609.shtml)
+
 3) 常用库及IDE环境
 
  [install opencv](http://milq.github.io/install-opencv-ubuntu-debian/)
@@ -134,10 +137,6 @@ export LD_LIBRARY_PATH=/usr/local/cuda-8.0/lib64:$LD_LIBRARY_PATH
 ```  
   sudo apt-get install eclipse eclipse-cdt g++
 ```  
-
-方法二(似乎不行)：
-参考：[http://www.th7.cn/system/lin/201607/173609.shtml](http://www.th7.cn/system/lin/201607/173609.shtml)
-
 
 **5. 其他**
 
