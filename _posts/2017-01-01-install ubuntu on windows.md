@@ -1,4 +1,13 @@
-  更新自2014年QQ日志
+ ---
+layout: post
+title:   windows上安装ubuntu及基础操作
+categories:
+- IT
+tags:
+- IT
+---
+
+ 更新自2014年QQ日志
  
 
  **
