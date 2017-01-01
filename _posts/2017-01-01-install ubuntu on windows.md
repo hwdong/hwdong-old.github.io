@@ -97,7 +97,9 @@ d） 200M             logical ( 即逻辑分分区)            ext4             
     sudo apt-get install cmake
     sudo apt-get install cmake-qt-gui
 
-     sudo apt-get install alien  # 以便安装rpm包 sudo alien -i mxxx.rpm
+    sudo apt-get install libboost-dev 
+
+    sudo apt-get install alien  # 以便安装rpm包 sudo alien -i mxxx.rpm
 ```
 
 ubuntu16以下版本如果要用g++4.9，则可以安装（install） g++4.9 : 
@@ -127,14 +129,13 @@ export LD_LIBRARY_PATH=/usr/local/cuda-8.0/lib64:$LD_LIBRARY_PATH
 
 ```
 
-3) 常用库
+3) 常用库及IDE环境
 
-```
-  sudo apt-get install libboost-dev 
+ [install opencv](http://milq.github.io/install-opencv-ubuntu-debian/)
+
+```  
   sudo apt-get install eclipse eclipse-cdt g++
-
-```
-   [install opencv](http://milq.github.io/install-opencv-ubuntu-debian/)
+```  
 
 方法二(似乎不行)：
 参考：[http://www.th7.cn/system/lin/201607/173609.shtml](http://www.th7.cn/system/lin/201607/173609.shtml)
