@@ -54,7 +54,7 @@ d） 200M             logical ( 即逻辑分分区)            ext4             
 
  1).网络的配置，网上转载的基于命令行的网络配置程序的文章既复杂又过时了，其实只要通过GUI界面很容易配置。注意使用ifconfig查看网卡驱动是否正确安装了！
 
- 网速慢： 网上东抄西抄的文章都是胡说，因为ubuntu已经自带了dnsmasq，我都试验过，没效果的！ 最简单的方法是在网络设置里设置一下OpenDNS域名服务器就行了！另外，浏览器需要安装好flash player插件，一旦安装好该插件后，你会发现网速马上变快了，浏览网页比Windows7 环境下要快！
+ 网速慢： 网上东抄西抄的文章都是胡说，因为ubuntu已经自带了dnsmasq，我都试验过，没效果的！ 最简单的方法是在网络设置里设置一下OpenDNS域名服务器就行了！
 
  2) 汉字输入:参考[http://blog.csdn.net/up_seeker/article/details/40859777](http://blog.csdn.net/up_seeker/article/details/40859777)
 
@@ -77,7 +77,7 @@ d） 200M             logical ( 即逻辑分分区)            ext4             
 
   查看firefox程序的安装信息，
 
- rpm包在ubuntu下部支持，需要转换成debian: http://superuser.com/questions/607493/rpm-should-not-be-used-directly-install-rpm-packages。
+ rpm包在ubuntu下部支持，需要转换成debian,参考[该文章](http://superuser.com/questions/607493/rpm-should-not-be-used-directly-install-rpm-packages).
 
 **编程环境**
 
