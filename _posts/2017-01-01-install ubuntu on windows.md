@@ -80,7 +80,27 @@ d） 200M             logical ( 即逻辑分分区)            ext4             
 
 **编程环境**
 
-1) ubuntu16以下版本如果要用g++4.9，则可以安装（install） g++4.9 : 
+1)  安装基本编程工具
+
+```
+    sudo apt-get update    
+    sudo apt-get install git
+    sudo apt-get install build-essential
+    sudo apt-get install cmake
+    sudo apt-get install libx11-dev
+    sudo apt-get install mesa-common-dev libgl1-mesa-dev libglu1-mesa-dev
+    sudo apt-get install libxrandr-dev
+    sudo apt-get install libxi-dev
+    sudo apt-get install libxmu-dev
+    sudo apt-get install libblas-dev
+
+    sudo apt-get install cmake
+    sudo apt-get install cmake-qt-gui
+
+     sudo apt-get install alien  # 以便安装rpm包 sudo alien -i mxxx.rpm
+```
+
+ubuntu16以下版本如果要用g++4.9，则可以安装（install） g++4.9 : 
 [getting-installing-gcc-g-4-9-on-ubuntu](http://askubuntu.com/questions/428198/getting-installing-gcc-g-4-9-on-ubuntu)
 
 2) install(安装)  CUDA8 ：
@@ -106,6 +126,15 @@ export PATH=/usr/local/cuda-8.0/bin:$PATH
 export LD_LIBRARY_PATH=/usr/local/cuda-8.0/lib64:$LD_LIBRARY_PATH
 
 ```
+
+3) 常用库
+
+```
+  sudo apt-get install libboost-dev 
+  sudo apt-get install eclipse eclipse-cdt g++
+
+```
+   [install opencv](http://milq.github.io/install-opencv-ubuntu-debian/)
 
 方法二(似乎不行)：
 参考：[http://www.th7.cn/system/lin/201607/173609.shtml](http://www.th7.cn/system/lin/201607/173609.shtml)
