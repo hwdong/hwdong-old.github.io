@@ -77,7 +77,7 @@ d） 200M             logical ( 即逻辑分分区)            ext4             
 
   查看firefox程序的安装信息，
 
- rpm包在ubuntu下部支持，需要转换成debian,参考[该文章](http://superuser.com/questions/607493/rpm-should-not-be-used-directly-install-rpm-packages).
+ rpm包在ubuntu下不支持，需要转换成debian,参考[该文章](http://superuser.com/questions/607493/rpm-should-not-be-used-directly-install-rpm-packages).
 
 **编程环境**
 
