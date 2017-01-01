@@ -113,11 +113,8 @@ ALT+ALt+F1 进入terminal;
 
 ```python
       sudo  /etc/init.d/lightdm stop 或者sudo  /etc/init.d/gdm stop ; 
-
       sudo chmod +x cuda*.run;
-
       sudo ./cuda*.run; 
-
       sudo  /etc/init.d/lightdm  restart  
 ```
 
@@ -132,7 +129,8 @@ export LD_LIBRARY_PATH=/usr/local/cuda-8.0/lib64:$LD_LIBRARY_PATH
 3) 常用库及IDE环境
 
  [install opencv](http://milq.github.io/install-opencv-ubuntu-debian/)
-
+  
+  安装Eclipse:
 ```  
   sudo apt-get install eclipse eclipse-cdt g++
 ```  
