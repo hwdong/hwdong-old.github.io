@@ -1,3 +1,5 @@
+  更新自2014年QQ日志
+  
 1. U盘安装windows7或windows10:
 
 （在一台windows机器上）用 [windows 7 dvd usb tool](Windows USB/DVD Download Tool)制作安装windows7或windows10的安装启动u盘，在启动电脑时一直按"Del"键选择U盘启动,然后按照指令安装windows。
