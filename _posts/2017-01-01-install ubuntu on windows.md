@@ -96,7 +96,21 @@ d） 200M             logical ( 即逻辑分分区)            ext4             
     sudo apt-get install alien  # 以便安装rpm包 sudo alien -i mxxx.rpm
 ```
 
-ubuntu16以下版本如果要用g++4.9，则可以安装（install） g++4.9 : 
+安装多个编译器gcc/g++: 
+```
+    #查询
+    which g++ gcc  
+    ls /usr/bin/gcc* 
+    sudo update-alternatives --config gcc   
+    #安装
+    sudo add-apt-repository ppa:ubuntu-toolchain-r/test
+    sudo apt-get update
+    sudo apt-get install gcc-5 g++-5 gcc-4.9 g++-4.9
+    sudo update-alternatives --install /usr/bin/gcc gcc /usr/bin/gcc-5 60 --slave /usr/bin/g++ g++ /usr/bin/g++-5
+sudo update-alternatives --install /usr/bin/gcc gcc /usr/bin/gcc-4.9 40 --slave /usr/bin/g++ g++ /usr/bin/g++-4.9
+    sudo update-alternatives --config gcc
+```
+
 [getting-installing-gcc-g-4-9-on-ubuntu](http://askubuntu.com/questions/428198/getting-installing-gcc-g-4-9-on-ubuntu)
 
 ) install(安装)  CUDA8 ：
@@ -126,7 +140,8 @@ export LD_LIBRARY_PATH=/usr/local/cuda-8.0/lib64:$LD_LIBRARY_PATH
 
 3) 常用库及IDE环境
 
- [install opencv](http://milq.github.io/install-opencv-ubuntu-debian/)
+ [install opencv](http://milq.github.io/install-opencv-ubuntu-debian/) :
+ ```sudo apt-get install libopencv-dev python-opencv```
   
   安装Eclipse:
 ```  
@@ -146,3 +161,5 @@ export LD_LIBRARY_PATH=/usr/local/cuda-8.0/lib64:$LD_LIBRARY_PATH
 开机启动某应用程序：点击Windows按键，输入Startup，可打开启动应用程序，在其中可以添加开机启动项。
 
 Chrome里打开下载续传功能：chrome://flags
+
+众所周知原因gti clone很慢，会出错，如'error: RPC failed:...', 可输入如下命令：git config --global http.postBuffer 524288000 
