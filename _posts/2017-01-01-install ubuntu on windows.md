@@ -96,7 +96,8 @@ d） 200M             logical ( 即逻辑分分区)            ext4             
     sudo apt-get install alien  # 以便安装rpm包 sudo alien -i mxxx.rpm
 ```
 
-安装多个编译器gcc/g++: 
+安装多个编译器gcc/g++:
+
 ```
     #查询
     which g++ gcc  
