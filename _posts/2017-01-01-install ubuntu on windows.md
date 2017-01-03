@@ -114,12 +114,14 @@ sudo update-alternatives --install /usr/bin/gcc gcc /usr/bin/gcc-4.9 40 --slave 
 
 [getting-installing-gcc-g-4-9-on-ubuntu](http://askubuntu.com/questions/428198/getting-installing-gcc-g-4-9-on-ubuntu)
 
-) install(安装)  CUDA8 ：
-不要安装driver，只要[下载](https://developer.nvidia.com/cuda-downloads)一个CUDA8就可以了
+) 
+
+install CUDA8 on ubuntu(安装CUDA8) ：
+不要安装driver，只要[下载](https://developer.nvidia.com/cuda-downloads)一个CUDA8安装就可以了
     
 方法一：
 
-ALT+ALt+F1 进入terminal;
+ALT+ALt+F1 进入(enter) terminal;
 
 ```python
       sudo  /etc/init.d/lightdm stop 或者sudo  /etc/init.d/gdm stop ; 
