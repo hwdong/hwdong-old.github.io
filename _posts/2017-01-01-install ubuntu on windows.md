@@ -124,10 +124,10 @@ install CUDA8 on ubuntu(安装CUDA8) ：
 ALT+ALt+F1 进入(enter) terminal;
 
 ```python
-      sudo  /etc/init.d/lightdm stop 或者sudo  /etc/init.d/gdm stop ; 
+      sudo  /etc/init.d/lightdm stop;  # Or sudo service lightdm stop; 
       sudo chmod +x cuda*.run;
-      sudo ./cuda*.run; 
-      sudo  /etc/init.d/lightdm  restart  
+      sudo ./cuda*.run --override; // use "--override" to avoid the error "unsopported compiler"
+      sudo  /etc/init.d/lightdm  restart  # Or sudo service lightdm restart
 ```
 
 输入$ sudo gedit /etc/profile，打开 gedit ，最后两行输入
@@ -138,7 +138,7 @@ export LD_LIBRARY_PATH=/usr/local/cuda-8.0/lib64:$LD_LIBRARY_PATH
 
 ```
 
-方法二(似乎不行)：
+方法二
 参考：[http://www.th7.cn/system/lin/201607/173609.shtml](http://www.th7.cn/system/lin/201607/173609.shtml)
 
 3) 常用库及IDE环境
