@@ -4,20 +4,20 @@ title: 数据结构课程
 comments: true
 ---
 
-# 2017年
+## 2017年
 
-## 课件：
+#### 课件：
 
 [C语言复习](http://blog.hwdong.com/ds/C.pdf)
 
-## 实验：
+#### 实验：
 
 1. C语言语法总结及基于数组的学生成绩读写程序
 
 
-# 2016年 
+## 2016年 
 
-## 数据结构课程视频：
+#### 数据结构课程视频：
 
 [Youku专辑网址](http://www.youku.com/playlist_show/id_26457128.html?sf=10100):
 
