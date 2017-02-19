@@ -8,7 +8,7 @@ comments: true
 
 #### 课件：
 
-[C语言复习](http://blog.hwdong.com/ds/C.pdf)
+[C语言复习](http://hwdong.com/ds/C.pdf)
 
 #### 实验：
 
