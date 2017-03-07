@@ -166,3 +166,9 @@ export LD_LIBRARY_PATH=/usr/local/cuda-8.0/lib64:$LD_LIBRARY_PATH
 Chrome里打开下载续传功能：chrome://flags
 
 众所周知原因gti clone很慢，会出错，如'error: RPC failed:...', 可输入如下命令：git config --global http.postBuffer 524288000 
+
+git clone慢的解决方法：
+
+  git clone --recursive --depth 1 repo_url
+
+  git fetch origin branch:branch --depth 1
