@@ -8,7 +8,7 @@ tags:
 ---
   <!--more-->
 
-```C
+```
 #include <glm/vec3.hpp> // glm::vec3
 #include <glm/vec4.hpp> // glm::vec4
 #include <glm/mat4x4.hpp> // glm::mat4
@@ -25,7 +25,6 @@ mat4 scale = scale(mat4(1.0f), vec3(0.5f, 0.5f, 1.0f));
 mat4 m = translate * scale * rotate;// must be scale * rotate * translate
 
 mat n= inverse(m); //transpose(m);
-
 
 glm::vec4 Position = glm::vec4(glm::vec3(0.0), 1.0);
 glm::mat4 Model = glm::mat4(1.0);    // construct identity matrix
