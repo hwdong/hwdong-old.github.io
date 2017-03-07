@@ -6,7 +6,6 @@ categories:
 tags:
 - 科技
 ---
-  glm matrix tutorial
   <!--more-->
 ```C++
 #include <glm/vec3.hpp> // glm::vec3
