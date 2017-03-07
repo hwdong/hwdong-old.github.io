@@ -24,6 +24,8 @@ mat4 rotate = rotate(mat4(1.0f), 90.0f, vec3(0.0f, 0.0f, 1.0f));
 mat4 scale = scale(mat4(1.0f), vec3(0.5f, 0.5f, 1.0f));
 mat4 m = translate * scale * rotate;// must be scale * rotate * translate
 
+mat n= inverse(m); //transpose(m);
+
 
 glm::vec4 Position = glm::vec4(glm::vec3(0.0), 1.0);
 glm::mat4 Model = glm::mat4(1.0);    // construct identity matrix
