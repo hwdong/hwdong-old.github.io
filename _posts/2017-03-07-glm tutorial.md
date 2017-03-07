@@ -30,7 +30,7 @@ glm::mat4 Model = glm::mat4(1.0);    // construct identity matrix
 Model[4] = glm::vec4(1.0, 1.0, 0.0, 1.0);
 glm::vec4 Transformed = Model * Position;
 
-glm::mat4 m4(1.0f); // construct identity matrix
+// column 
 m4[0]     // column zero
 m4[0].x   // same as m4[ 0 ][ 0 ]
 m4[0].y   // same as m4[ 0 ][ 1 ]
