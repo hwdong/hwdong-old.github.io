@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Register 3d face model automatically
+title: Register 3d face models automatically
 categories:
 - 科教
 tags:
