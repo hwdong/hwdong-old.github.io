@@ -7,6 +7,6 @@ tags:
 - 科技
 ---
   
-  With the help of the computation of the CCS of a 3d face model,we can automatically register two 3d face model without mannullay choose coorrespoing points in the two face models. Is the result all right?
+  With the help of the computation of the CCS of a 3d face model,we can automatically register two 3d face model without mannullay choose coorrespoing points in the two face models. Is the result okay?
 
   ![](http://blog.hwdong.com/images/reg_face.jpg) 
