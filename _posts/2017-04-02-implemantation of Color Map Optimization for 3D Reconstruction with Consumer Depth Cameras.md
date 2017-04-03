@@ -14,3 +14,5 @@ It is very simple to implememt. The author din't provide the raw data for test, 
 
 ![](http://vladlen.info/wp-content/uploads/2014/04/color-mapping.jpg)
 
+You can download my program from [here](http://hwdong.com/programs/Color_Optimization.exe). But you must email me so that I can tell you how to run this program.
+
