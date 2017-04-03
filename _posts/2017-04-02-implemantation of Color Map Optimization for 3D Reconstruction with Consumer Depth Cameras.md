@@ -7,7 +7,7 @@ tags:
 - 科技
 ---
  
-This morning I spend a few hours to implement the algorithm in the paper "[Color Map Optimization for 3D Reconstruction with Consumer Depth Cameras](http://vladlen.info/publications/color-map-optimization-for-3d-reconstruction-with-consumer-depth-cameras/)" . 
+This morning I spend a few hours (while I am watching TV program)to implement the algorithm in the paper "[Color Map Optimization for 3D Reconstruction with Consumer Depth Cameras](http://vladlen.info/publications/color-map-optimization-for-3d-reconstruction-with-consumer-depth-cameras/)" . 
 <!--more-->
 
 It is very simple to implememt. The author din't provide the raw data for test, I will test it a few days later when we captured some high quality test data.  The result of the paper looks like this:
