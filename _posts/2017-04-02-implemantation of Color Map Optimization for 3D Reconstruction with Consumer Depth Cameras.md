@@ -14,8 +14,10 @@ It is very simple to implememt. The author din't provide the raw data for test, 
 
 ![](http://vladlen.info/wp-content/uploads/2014/04/color-mapping.jpg)
 
-This is the runing process of my program. 
+This is a test for my implementation. 
 ![](http://blog.hwdong.com/images/color_map.jpg)
 
+It seems the result is not good as the paper. I think it may be due to the poor quality captured images (some of them are blured) and the eye sometimes open and sometimes closed (always moving not a static object).
+  
 You can download my program from [here](http://hwdong.com/programs/ColorMap_Optimization_zip.zip). But you must email me so that I can tell you how to run this program. If someone need this in your code,you can ask me to send you an API library.
 
