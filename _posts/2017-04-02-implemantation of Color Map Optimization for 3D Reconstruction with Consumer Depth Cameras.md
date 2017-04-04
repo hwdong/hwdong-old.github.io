@@ -14,8 +14,8 @@ It is very simple to implememt. The author din't provide the raw data for test, 
 
 ![](http://vladlen.info/wp-content/uploads/2014/04/color-mapping.jpg)
 
-This is the runing process of my program. The runing time will be an hour or more.
+This is the runing process of my program. 
 ![](http://blog.hwdong.com/images/color_map.jpg)
 
-You can download my program from [here](http://hwdong.com/programs/ColorMap_Optimization_zip). But you must email me so that I can tell you how to run this program. If someone need this in your code,you can ask me to send you an API library.
+You can download my program from [here](http://hwdong.com/programs/ColorMap_Optimization_zip.zip). But you must email me so that I can tell you how to run this program. If someone need this in your code,you can ask me to send you an API library.
 
