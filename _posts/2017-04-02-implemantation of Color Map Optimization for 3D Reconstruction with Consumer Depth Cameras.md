@@ -19,7 +19,7 @@ This is a test for my implementation.
 
 ![](http://blog.hwdong.com/images/color_map_2.jpg)
 
-It seems the result is not good as the paper. I think it may be due to the poor quality captured images (some of them are blured) and the eye sometimes open and sometimes closed (always moving not a static object).
+From the botton picure, we can see the color map has been optimized resulting better fitting of feature points. Although the result is not good as the paper. I think it may be due to the poor quality captured images (the resolution of image is low (640*480) ,the paper used high resolution (1280*1024) images.  Some of them we captured are blured,we should removed these images) and the eye sometimes open and sometimes closed (always moving not a static object).
   
 You can download my program from [here](http://hwdong.com/programs/ColorMap_Optimization_zip.zip). But you must email me so that I can tell you how to run this program. If someone need this in your code,you can ask me to send you an API library.
 
