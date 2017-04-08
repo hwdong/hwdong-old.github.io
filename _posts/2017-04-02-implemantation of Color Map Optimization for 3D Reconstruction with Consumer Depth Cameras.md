@@ -15,6 +15,7 @@ It is very simple to implememt. The author din't provide the raw data for test, 
 ![](http://vladlen.info/wp-content/uploads/2014/04/color-mapping.jpg)
 
 This is a test for my implementation. 
+![](http://blog.hwdong.com/images/color_map_1.jpg)
 ![](http://blog.hwdong.com/images/color_map.jpg)
 
 ![](http://blog.hwdong.com/images/color_map_2.jpg)
