@@ -28,5 +28,5 @@ Refer to:
 
    [Vector Field Design on Surfaces](http://web.engr.oregonstate.edu/~zhange/images/vecflddesn.pdf)
 
-    [Design of 2D Time-Varying Vector Fields](http://www.sci.utah.edu/~chengu/timeVarying_vfd.htm")
+    [Design of 2D Time-Varying Vector Fields](http://www.sci.utah.edu/~chengu/timeVarying_vfd.htm)
 
