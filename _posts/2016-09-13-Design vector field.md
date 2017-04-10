@@ -22,11 +22,11 @@ A video of my "Design of 2D Time-Varying Vector Fields" is posted in youtube
 [![Design of 2D Time-Varying Vector Fields](http://img.youtube.com/vi/SPrL7mk_FRA/0.jpg)](https://www.youtube.com/watch?v=SPrL7mk_FRA)
 
 
-The program is based on the following two papers (Thanks for the help from Guoning Chen).   
+The program is based on the following two papers (Thanks for the help from Guoning Chen).  The source code is public available. 
 
 Refer to:
 
    [Vector Field Design on Surfaces](http://web.engr.oregonstate.edu/~zhange/images/vecflddesn.pdf)
 
-    [Design of 2D Time-Varying Vector Fields](http://www.sci.utah.edu/~chengu/timeVarying_vfd.htm)
+   [Design of 2D Time-Varying Vector Fields](http://www.sci.utah.edu/~chengu/timeVarying_vfd.htm)
 
