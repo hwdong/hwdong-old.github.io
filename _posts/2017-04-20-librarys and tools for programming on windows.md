@@ -32,6 +32,13 @@ python -m pip install scikit_image-0.13.0-cp27-cp27m-win_amd64.whl
 python -m pip install h5py-2.7.0-cp27-cp27m-win_amd64.whl
 python -m pip list
 ```
+
+Install Jupyter by installing [Anaconda for Python 2.7](https://www.continuum.io/downloads) 
+
+[graphviz](http://www.graphviz.org/Download_windows.php)
+
+graphviz
+
 When you install VS2015(VS2013...),you should choose to include python. If not,you can install Microsoft Visual C++ Compiler for Python 2.7, downloaded at (https://www.microsoft.com/en-us/download/details.aspx?id=44266) and install it by :
 ```
  msiexec /i VCForPython27.msi ALLUSERS=1
