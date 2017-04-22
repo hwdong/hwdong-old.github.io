@@ -18,7 +18,7 @@ OpenBlas: you should install "[strawberry perl](http://strawberryperl.com/)" fir
 ```
 python -m pip install cython
 python -m pip install numpy-1.12.1+mkl-cp27-cp27m-win_amd64.whl
-python -m pip install scipy-0.19.0-cp27-none-win_amd64.whl
+python -m pip install scipy-0.19.0-cp27-cp27m-win_amd64.whl
 python -m pip install matplotlib-2.0.0-cp27-none-win_amd64.whl
 python -m pip install scikit_image-0.13.0-cp27-cp27m-win_amd64.whl
 python -m pip install h5py-2.7.0-cp27-cp27m-win_amd64.whl
@@ -34,7 +34,7 @@ When you install VS2015(VS2013...),you should choose to include python. If not,y
 [Graphviz](www.graphviz.org/Download.php). Note: The installation directory can not contain space.
 
 [Pillow-3.1.1.win-amd64-py2.7.exe](https://pypi.python.org/pypi/Pillow/3.1.1)
- 
+
 After all finished, Download [gevent-1.2.1-cp27-none-win_amd64.whl](http://www.lfd.uci.edu/~gohlke/pythonlibs/) and install it.
 
 ```
