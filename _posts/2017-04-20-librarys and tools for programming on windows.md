@@ -18,7 +18,7 @@ OpenBlas: you should install "[strawberry perl](http://strawberryperl.com/)" fir
 
 [boost](http://www.boost.org/users/download/) 
 
-[https://github.com/google/protobuf](https://github.com/google/protobuf),you can download binary[protoc-3.0.0-win32.zip](https://github.com/google/protobuf/releases/tag/v3.0.0)
+[https://github.com/google/protobuf](https://github.com/google/protobuf),you can [build](https://github.com/google/protobuf/blob/master/cmake/README.md) or download binary[protoc-3.0.0-win32.zip](https://github.com/google/protobuf/releases/tag/v3.0.0)
 
 [ninja](https://github.com/ninja-build/ninja/releases)
 
@@ -37,7 +37,10 @@ When you install VS2015(VS2013...),you should choose to include python. If not,y
  msiexec /i VCForPython27.msi ALLUSERS=1
 ```
 
+
 [CUDA8](https://developer.nvidia.com/cuda-downloads) and [cuDNN](https://developer.nvidia.com/cudnn)
+
+
 
 [Graphviz](www.graphviz.org/Download.php). Note: The installation directory can not contain space.
 
