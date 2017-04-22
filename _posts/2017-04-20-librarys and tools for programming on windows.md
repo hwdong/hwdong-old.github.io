@@ -17,9 +17,17 @@ OpenBlas: you should install "[strawberry perl](http://strawberryperl.com/)" fir
 [python 2.7.11](https://www.python.org/ftp/python/2.7.11/python-2.7.11.amd64.msi): numpy, scipy, matplotlib, scikit-image, h5py from Unofficial Windows Binaries for Python Extension Packages webpage and gevent v1.0.2  at ([http://www.lfd.uci.edu/~gohlke/pythonlibs/](http://www.lfd.uci.edu/~gohlke/pythonlibs/)).
 ```
 python -m pip install cython
-python -m pip install numpy-1.11.0+mkl-cp27-cp27m-win_amd64.whl
-python -m pip install scipy-0.17.0-cp27-none-win_amd64.whl
-python -m pip install matplotlib-1.5.1-cp27-none-win_amd64.whl
-python -m pip install scikit_image-0.12.3-cp27-cp27m-win_amd64.whl
-python -m pip install h5py-2.6.0-cp27-cp27m-win_amd64.whl
+python -m pip install numpy-1.12.1+mkl-cp27-cp27m-win_amd64.whl
+python -m pip install scipy-0.19.0-cp27-none-win_amd64.whl
+python -m pip install matplotlib-2.0.0-cp27-none-win_amd64.whl
+python -m pip install scikit_image-0.13.0-cp27-cp27m-win_amd64.whl
+python -m pip install h5py-2.7.0-cp27-cp27m-win_amd64.whl
 ```
+When you install VS2015(VS2013...),you should choose to include python. If not,you can install Microsoft Visual C++ Compiler for Python 2.7, downloaded at (https://www.microsoft.com/en-us/download/details.aspx?id=44266) and install it by :
+```
+ msiexec /i VCForPython27.msi ALLUSERS=1
+```
+
+[CUDA8](https://developer.nvidia.com/cuda-downloads) and [cuDNN](https://developer.nvidia.com/cudnn)
+
+[Graphviz](www.graphviz.org/Download.php). Note: The installation directory can not contain space.
