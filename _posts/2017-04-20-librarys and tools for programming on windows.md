@@ -33,6 +33,8 @@ When you install VS2015(VS2013...),you should choose to include python. If not,y
 
 [Graphviz](www.graphviz.org/Download.php). Note: The installation directory can not contain space.
 
+[Pillow-3.1.1.win-amd64-py2.7.exe](https://pypi.python.org/pypi/Pillow/3.1.1)
+ 
 After all finished, Download [gevent-1.2.1-cp27-none-win_amd64.whl](http://www.lfd.uci.edu/~gohlke/pythonlibs/) and install it.
 
 ```
