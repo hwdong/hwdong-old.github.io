@@ -18,7 +18,7 @@ OpenBlas: you should install "[strawberry perl](http://strawberryperl.com/)" fir
 
 [boost](http://www.boost.org/users/download/) 
 
-[https://github.com/google/protobuf](https://github.com/google/protobuf),you can [build](https://github.com/google/protobuf/blob/master/cmake/README.md) or download binary[protoc-3.0.0-win32.zip](https://github.com/google/protobuf/releases/tag/v3.0.0)
+[https://github.com/google/protobuf](https://github.com/google/protobuf),you can [build](https://github.com/google/protobuf/blob/master/cmake/README.md) or download binary[protoc-3.0.0-win32.zip](https://github.com/google/protobuf/releases/tag/v3.0.0). You must first  install gmock.
 
 [ninja](https://github.com/ninja-build/ninja/releases)
 
@@ -36,8 +36,6 @@ python -m pip list
 Install Jupyter by installing [Anaconda for Python 2.7](https://www.continuum.io/downloads) 
 
 [graphviz](http://www.graphviz.org/Download_windows.php)
-
-graphviz
 
 When you install VS2015(VS2013...),you should choose to include python. If not,you can install Microsoft Visual C++ Compiler for Python 2.7, downloaded at (https://www.microsoft.com/en-us/download/details.aspx?id=44266) and install it by :
 ```
