@@ -56,3 +56,7 @@ After all finished, Download [gevent-1.2.1-cp27-none-win_amd64.whl](http://www.l
 ```
 python -m pip install gevent-1.2.1-cp27-none-win_amd64.whl
 ```
+
+**Some useful tools for windows**
+    Sometimes We can't uninstall vs201x cleanly. [This tool](https://github.com/Microsoft/VisualStudioUninstaller/releases) can do this for us.
+    http://www.wisecleaner.com/wise-registry-cleaner.html
