@@ -6,7 +6,7 @@ comments: true
 
 ![1](http://hwdong.com/prog_images/yang_fit.jpg) 
 
-If We have multi face images,we can get better 3d face fitting. There are still some problems with the result. We can improve the result later. Please wait ...
+If We have multi face images,we can get better 3d face fitting. There are still some problems in the resulted model. We can improve the result later. Please wait ...
 <!--more--> 
 
 Note: Because We want a 3d face model with open eye,the two eye and nose hole are automatically erased in the images before fitting. 
