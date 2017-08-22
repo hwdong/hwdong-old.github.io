@@ -2,6 +2,16 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+  <script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
+  </script>
+
+
   <title>
     {% if page.title == "Home" %}
       {{ site.title }} &middot; {{ site.tagline }}
@@ -15,13 +25,5 @@
   <link rel="shortcut icon" href="{{ site.baseurl }}/public/favicon.ico">
   <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ site.baseurl }}/atom.xml">
 
-  <script type="text/x-mathjax-config">
-  MathJax.Hub.Config({
-    tex2jax: {
-      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
-      processEscapes: true
-    }
-  });
-</script>
 
 </head>
